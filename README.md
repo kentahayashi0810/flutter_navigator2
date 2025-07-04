@@ -62,28 +62,4 @@ lib/
 - Proper use of `context.mounted` for safe UI updates
 - Using `ScaffoldMessenger` to show `SnackBar` from inside `StatefulWidget`
 
----
-
-## ✅ Try It Out
-
-1. Run the app using a simulator or device
-2. Tap the **"Select an option"** button
-3. Choose an option on the next screen
-4. See your selection displayed in a `SnackBar` upon returning
-
----
-
-## 📘 Requirements
-
-- Flutter SDK (any stable version)
-- A device or emulator
-
----
-
-## 💡 Tip
-
-You can reuse this pattern in your own app any time you need to:
-- Open a new screen
-- Wait for a result
-- React when the user returns
 
